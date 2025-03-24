@@ -1,0 +1,18 @@
+---
+title: "About"
+image: IMG_8445.jpg
+about:
+  template: trestles
+  links:
+  - icon: linkedin
+    href: https://www.linkedin.com/in/oluwatoni-shoyinka-90b251235/
+  - icon: envelope
+    aria-label: email
+    href: "mailto:tonishoyinka@gmail.com"  
+---
+
+Hello, my name is Oluwatoni (Toni) Shoyinka and I'm currently an undergraduate student at Case Western Reserve University pursuing a Dean's Approved Major in Epidemiology with a minor in Arabic. My career aspirations are to work in international public health and assist in developing culturally competent health infrastructure that allows developing communities to build upon themselves on their own terms.
+
+I currently hold positions in many spaces on campus. I work in the Center for Human Genetics at University Hospitals where I conduct insurance prior authorizations to help patients get genetic testing covered and learn about the unique cases dealt with by the Genetic Counselors and physicians in the department. I am the Vice President of Internal Affairs for PERIOD \@ CWRU, where I lead campus-wide initiatives to eliminate stigma around menstruation and combat period poverty in Cleveland through Education, Advocacy, and Service. I am also a Tour Guide, Spartan Ambassador, and Orientation Leader, which allows me to connect with prospective and incoming students.
+
+When I'm not pursuing academic endeavors, I enjoy reading, knitting/crocheting, and baking.
